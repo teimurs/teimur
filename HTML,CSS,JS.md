@@ -1,6 +1,6 @@
 HTML 
 
-   <div id="prozor" class="prozor">
+   div id="prozor" class="prozor">
             <div class="contact-form" style="background-image: url('https://images.jifo.co/28135055_1527509038810.jpg');"></div>
 
             <div class="txtb">
