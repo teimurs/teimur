@@ -30,16 +30,16 @@ HTML
 BUTTON CONTACT html isto
 
 
- <button class="button" id="button1" onclick="prvi()">Contact</button>
+ //<button class="button" id="button1" onclick="prvi()">Contact</button>
 
- <button class="button" id="button2" onclick="drugi()">Contact</button>
+ //<button class="button" id="button2" onclick="drugi()">Contact</button>
 
- <button class="button" id="button3" onclick="treci()">Contact</button>
+ //<button class="button" id="button3" onclick="treci()">Contact</button>
 
 
 CSS 
 
-.prozor {
+//.prozor {
     display: none;
     width: 85%;
     max-width: 600px;
