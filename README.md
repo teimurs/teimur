@@ -1,2 +1,0 @@
-# teimur
-projekat
